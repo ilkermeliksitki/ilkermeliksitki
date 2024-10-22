@@ -6,7 +6,7 @@
 
 #### About Me
 - 🎓 I'm currently a Master's student in Biomedical Engineering and Medical Physics at <a href="https://www.tum.de/en/">TUM</a>. 
-- 💻 Proficient in Python, C, Java, and Shell scripting.
+- 💻 Proficient in Python, C, Java, and Shell scripting. Currently, I am learning R.
 - 🌱 Exploring the fields of Data Science and Machine Learning
 - 💬 Feel free to ask me about coding, machine learning, or Linux!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ilkermelik/">LinkedIn</a>
