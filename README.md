@@ -1,8 +1,9 @@
 ### Hi there, I'm İlker 👋
 
 <!-- the personal vercel domain https://github-readme-stats-one-tau-85.vercel.app-->
-| <a href="https://github.com/ilkermeliksitki/"><img align="center" src="https://github-readme-stats-one-tau-85.vercel.app/api?username=ilkermeliksitki&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="İlker's github stats" /></a> | <a href="https://github.com/ilkermeliksitki"><img align="center" src="https://github-readme-stats-one-tau-85.vercel.app/api/top-langs/?username=ilkermeliksitki&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ---- | ---- |
+
+<!-- | <a href="https://github.com/ilkermeliksitki/"><img align="center" src="https://github-readme-stats-one-tau-85.vercel.app/api?username=ilkermeliksitki&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="İlker's github stats" /></a> | <a href="https://github.com/ilkermeliksitki"><img align="center" src="https://github-readme-stats-one-tau-85.vercel.app/api/top-langs/?username=ilkermeliksitki&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ---- | ---- | -->
 
 #### About Me
 - 🎓 I'm currently a Master's student in Biomedical Engineering and Medical Physics at <a href="https://www.tum.de/en/">TUM</a>. 
