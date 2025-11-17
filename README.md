@@ -7,7 +7,7 @@
 
 #### About Me
 - 🎓 I'm currently a Master's student in Biomedical Engineering and Medical Physics at <a href="https://www.tum.de/en/">TUM</a>. 
-- 💻 Proficient in Python, C, Java, and Shell scripting. Currently, I am learning R and Rust.
+- 💻 Proficient in Python, C, Java, JavaScript, and Shell scripting. Currently, I am learning R and Rust.
 - 🌱 Exploring the fields of Data Science and Machine Learning
 
 #### 🛠️ Languages and Tools:
